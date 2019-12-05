@@ -17,6 +17,7 @@ namespace Task2_skier
 
         static void ConsoleStart()
         {
+            Console.WriteLine("Pro100Elite it`s mine!!! ahahahaha");
             Console.WriteLine("============================================================");
             Console.WriteLine("========I WELCOME YOU IN THE APP OF A SKIER=================");
             Console.WriteLine("============================================================");
